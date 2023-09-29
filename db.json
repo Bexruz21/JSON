@@ -1,5 +1,70 @@
 {
-  "tables": [
-    {"id": 0, "title": "title 1"}
+  "tables": [],
+  "products": [
+    {
+      "id": 1,
+      "name": "QS",
+      "price": 32
+    },
+    {
+      "id": 2,
+      "name": "VERSAL",
+      "price": 32
+    },
+    {
+      "id": 3,
+      "name": "KG GS",
+      "price": 34
+    },
+    {
+      "id": 4,
+      "name": "LATTA GOLD",
+      "price": 33
+    },
+    {
+      "id": 5,
+      "name": "DVUX",
+      "price": 24
+    },
+    {
+      "id": 6,
+      "name": "PUKOJA",
+      "price": 41
+    },
+    {
+      "id": 7,
+      "name": "HD",
+      "price": 31
+    },
+    {
+      "id": 8,
+      "name": "MADD",
+      "price": 34
+    },
+    {
+      "id": 9,
+      "name": "LUX",
+      "price": 32
+    },
+    {
+      "id": 10,
+      "name": "LAM",
+      "price": 23
+    },
+    {
+      "id": 11,
+      "name": "BEZLAMINAT",
+      "price": 19
+    },
+    {
+      "id": 12,
+      "name": "PRAZRACHNI",
+      "price": 19
+    },
+    {
+      "id": 13,
+      "name": "1.20 TAYLADKA",
+      "price": 13
+    }
   ]
 }
